@@ -1,0 +1,19 @@
+/* button {
+  font-size: 28px;
+  font-family: Helvetica, "Times New Roman", sans-serif;
+} */
+
+.btn-click,
+.btn-noClick {
+  font-size: 28px;
+  font-family: Helvetica, "Times New Roman", sans-serif;
+}
+
+.btn-click {
+  background-color: black;
+  color: #ffffff;
+}
+
+.btn-noClick {
+  background-color: #ffff00;
+}
